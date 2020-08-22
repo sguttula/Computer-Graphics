@@ -1,4 +1,4 @@
-# Chapter 4 programs
+# WebGL cube programs
 
 ## cube: displays a rotating cube with vertex colors interpolated across faces
 
