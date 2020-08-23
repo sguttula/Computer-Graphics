@@ -7,7 +7,7 @@ var NumVertices  = 36;
 
 var points = [];
 var colors = [];
-
+ 
 var xAxis = 0;
 var yAxis = 1;
 var zAxis = 2;
